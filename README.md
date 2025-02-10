@@ -1,14 +1,31 @@
-# Hi there, I'm @RAOUMERTC73 👋
+<p align='center'>
+<a href="https://medium.com/@raoumer160903/"><img height="30" src="img/medium.png" alt="Medium"></a>
+<a href="https://www.linkedin.com/in/um16/"><img height="30" src="img/linkedin.png" alt="LinkedIn"></a>
+</p>
 
-Welcome to my GitHub profile! I'm passionate about **Verilog**, **FPGA**, **Digital Logic Design**, **RISC-V** architecture, and **Arduino**. I love diving into the world of hardware description languages and exploring innovative ways to design and implement digital systems.
+<h2 align="center">Hi there! I'm Rao Muhammad Umer.</h2>
+<p align="center"><em><strong>Telecommunication Engineer</strong></em></p>
 
-### 🚀 What I'm Currently Up To:
-- 🌱 Pursuing a degree in **Telecommunication Engineering** with a focus on digital and analog communication systems.
-- 🔧 Working on exciting projects like:
-  - [RISC-V Single-Cycle Core in Verilog](https://github.com/RAOUMERTC73/RISC-V-Single-Cycle-Core-in-Verilog)
-  - [Design and Verification Trainee](https://github.com/RAOUMERTC73/-Design-and-Verification-Trainee)
-  - [Quartus Prime Projects](https://github.com/RAOUMERTC73/Quartus_prime_FILE)
-  - [Arduino ESP8266 Projects](https://github.com/RAOUMERTC73/Arduino_esp8266_Projects)
+<p> I am interested in the VLSI domain and networking.</p>
+
+<img align="right" width="45%" src="img/vlsi.gif" alt="VLSI Animation">
+
+### 💻 Languages:  
+- SystemVerilog, Verilog  
+- Arduino, JavaScript, Linux commands  
+- RISC-V Assembly  
+- C / C++, Python  
+
+### 🛠️ Technical Skills:  
+- RTL Design, hands-on experience with Intel FPGA, circuit design  
+- Networking, digital system design, Arduino/ESP, PCB designing  
+- Version control, report writing, solar installation  
+- AC/DC inverter solar wiring  
+
+### 🔧 Tools:  
+- QuestaSim, Vivado, Verilator, iCarus Verilog, GTKWave  
+- MultiSim, Proteus, MATLAB, Arduino IDE, OrCAD PCB  
+- EDA Playground, Cisco Packet Tracer, ModelSim, Quartus  
 
 ### 💡 My Interests:
 - **Verilog HDL**: Crafting logic circuits and architectures.
@@ -17,10 +34,6 @@ Welcome to my GitHub profile! I'm passionate about **Verilog**, **FPGA**, **Digi
 - **RISC-V Architecture**: Exploring the future of open-source hardware.
 - **Arduino**: Prototyping and building IoT devices.
 
+
 ### 📫 How to Reach Me:
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/um16/) or drop me an email at [raoumer160903@gmail.com](mailto:raoumer160903@gmail.com). I'm always up for a chat about digital design, Arduino projects, and emerging technologies!
-
-### 🌟 Fun Fact:
-When I'm not coding or tinkering with hardware, you'll find me exploring the latest trends in technology and brushing up on my knowledge of telecommunications!
-
-Thanks for stopping by! Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or have any questions.
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/um16/) or drop me an email at [raoumer160903@gmail.com](mailto:raoumer160903@gmail.com).
