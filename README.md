@@ -30,8 +30,8 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn a
 
 ## GitHub Stats
 
-![Rao Umer's GitHub stats](https://github-readme-stats.vercel.app/api?username=kashaf619&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kashaf619&layout=compact&theme=radical)
+![Rao Umer's GitHub stats](https://github-readme-stats.vercel.app/api?username=RAOUMERTC73&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RAOUMERTC73&layout=compact&theme=radical)
 
 
 ### 🛠️ Technical Skills:  
